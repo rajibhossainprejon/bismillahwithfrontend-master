@@ -1,0 +1,19 @@
+.products img{
+    width: 50%;
+    length: 40%;
+   padding: 3%;
+   
+}
+.imageOfFoods{
+  text-align: center;
+}
+.products{
+    width: 15%;
+    length: 20%;
+    text-align: center;
+    display: inline-table;
+   
+   
+    
+}
+
